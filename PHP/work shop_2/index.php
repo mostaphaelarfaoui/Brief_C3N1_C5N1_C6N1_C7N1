@@ -23,6 +23,10 @@
     echo " « Bienvenu $sexe $name, vous avez $age ans. »";
   
 }
+
+
+
+
  ?>
 </body>
 </html>
